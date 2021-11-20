@@ -17,4 +17,5 @@ PHP echo statement can be used to print the string, multi-line strings, escaping
  => is used to assign values to the keys of an array
  -> is used to access an object method or property. 
 
+ The extends keyword indicates that you are making a new class that derives from an existing class. The meaning of "extends" is to increase the functionality.
 -->
