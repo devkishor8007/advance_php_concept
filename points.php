@@ -21,8 +21,21 @@ PHP echo statement can be used to print the string, multi-line strings, escaping
 
 
  Access modifiers are public, private and protected. 
- 
+
  Why access modifiers?
  - to validate and restrict data
  - keep private things private
+
+ Abstract Method
+ Abstract keyword is used to define an Abstract Methods
+ Abstract Method can be only public and protected and can't be declare with private
+ We should not use the Abstract object
+
+ abstract and interface is kind similar but abstract class doesnot support multi inheritance where interface can  support multi inheritance
+
+ Interface
+ couldnot create object
+ allow you to specify what methods a class should implement
+ use the implements keyword to delcare
+ visibility must be public
 -->
