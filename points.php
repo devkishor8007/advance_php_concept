@@ -31,4 +31,18 @@ PHP echo statement can be used to print the string, multi-line strings, escaping
  - methods can be any visibilty
  - similar to class and canot create instantiated
  - can have method and abstract method
+
+ constant
+ - cannot be change during the exexution the script
+ - const keyword is used to declare a class construct
+ - constants doesnot have a visibilty modifiers
+ 
+ Magic Constant have predefine constant
+ - start with double underscore
+ - have five constant
+ - __LINE__ : if we need script line we use this as provide the current line number
+ - __CLASS__ :  if we need class we use this
+ - __FILE__ : if we need file we use this as provide the current file name with path
+ - __METHOD__ : if we need method we use this
+ - __FUNCTION__ : if we need function line we use this
 -->
