@@ -19,10 +19,16 @@ PHP echo statement can be used to print the string, multi-line strings, escaping
 
  The extends keyword indicates that you are making a new class that derives from an existing class. The meaning of "extends" is to increase the functionality.
 
-
  Access modifiers are public, private and protected. 
  
  Why access modifiers?
  - to validate and restrict data
  - keep private things private
+
+ trait
+ - way to resue code as reduce code duplication
+ - can be declared in a multiple class
+ - methods can be any visibilty
+ - similar to class and canot create instantiated
+ - can have method and abstract method
 -->
