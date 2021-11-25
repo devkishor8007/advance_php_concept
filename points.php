@@ -45,4 +45,14 @@ PHP echo statement can be used to print the string, multi-line strings, escaping
  - __FILE__ : if we need file we use this as provide the current file name with path
  - __METHOD__ : if we need method we use this
  - __FUNCTION__ : if we need function line we use this
+
+Static keyword use in OOP
+- static methods and properties can be accessed without creating an object
+- can be called directly without an object of the class
+- $this keyword is not use or available inside static method
+- static can be use in function and variable level and cannot be declare in class level
+
+How to access static method?
+can be accessed from outside the class using the class name and scope resolution operator.
+Example: className::methodName();
 -->
